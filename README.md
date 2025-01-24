@@ -47,8 +47,8 @@ Treasurer of the departmental forum during my final year.</b>.<br/>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThePratham28&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="PrathamChopde" height="139"/>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThePratham28&layout=compact&hide=Shell&border_radius=0&theme=dark" alt="PrathaChopde" height="139" />
 </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=ThePratham28&theme=dark" alt="PrathaChopde" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ThePratham28&theme=dark" alt="PrathaChopde" /></p>
 <br>
 
 
