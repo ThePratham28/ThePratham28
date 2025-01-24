@@ -1,6 +1,7 @@
-# 💫 About Me:
-👨‍💻 Backend Developer | Problem Solver<br>Passionate about building clean, efficient, and scalable backend systems. Skilled in Node.js, Express.js, MongoDB, and focused on developing robust APIs and server-side applications. I thrive on tackling complex challenges and continuously improving my problem-solving abilities.<br><br>🔧 Tech Stack:<br>Languages: JavaScript (Node.js)<br>Frameworks/Libraries: Express.js<br>Database: MongoDB<br>Tools: VS Code, Git<br><br>📚 Projects:<br>Academic Project: [Brief description]<br>Personal Project: [Brief description]<br><br>🎮 Fun Facts:<br>State-level volleyball player in 12th grade, with experience in school and college tournaments.<br>Treasurer of the departmental forum during my final year.
+# Hi 👋, I'm Pratham Chopde.
 
+## 💫 About Me:
+👨‍💻 Backend Developer | Problem Solver<br>Passionate about building clean, efficient, and scalable backend systems. Skilled in Node.js, Express.js, MongoDB, and focused on developing robust APIs and server-side applications. I thrive on tackling complex challenges and continuously improving my problem-solving abilities.<br><br>🔧 Tech Stack:<br>Languages: JavaScript (Node.js)<br>Frameworks/Libraries: Express.js<br>Database: MongoDB<br>Tools: VS Code, Git<br><br>📚 Projects:<br>Academic Project: [Brief description]<br>Personal Project: [Brief description]<br><br>🎮 Fun Facts:<br>State-level volleyball player in 12th grade, with experience in school and college tournaments.<br>Treasurer of the departmental forum during my final year.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/pratham-chopde-4b64a3256/) 
