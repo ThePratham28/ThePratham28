@@ -33,7 +33,7 @@
 
 • 💬 Ask me about <b>Node | Express | MongoDB</b>.<br/>
 
-• 📫 Reach me out <a href="https://linkedin.com/in/pratham-chopde-4b64a3256/"><b>Pratham Nemade</b></a><br/>
+• 📫 Reach me out <a href="https://linkedin.com/in/pratham-chopde-4b64a3256/"><b>Pratham Chopde</b></a><br/>
 
 •⚡ Fun Fact <b>State-level volleyball player in 12th grade.
 Treasurer of the departmental forum during my final year.</b>.<br/>
