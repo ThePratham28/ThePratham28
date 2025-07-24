@@ -2,7 +2,7 @@
 
 I'm a passionate **Web Developer** and **MERN Stack** enthusiast, currently working as an **Associate Software Developer** at [NeevCloud](https://www.neevcloud.com/) — India's first sovereign GPU cloud provider.
 
-* 🔭 Contributing to the **React + Vite frontend** for NeevCloud's platform and transitioning into backend development for a **RunPod-like cloud-native compute system**.
+* 🔭 Contributing to the **React + Vite frontend** for NeevCloud's platform.
 * 🌱 Currently diving deep into **Golang** and **Kubernetes**, building production-grade microservices using **PostgreSQL**, **Docker**, and **k8s**.
 * 💬 Ask me anything about **full-stack web development**, **cloud platforms**, or **my experience working in a product-based startup**.
 
